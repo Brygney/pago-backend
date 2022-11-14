@@ -1,0 +1,17 @@
+{
+    "parserOptions": {
+        "ecmaversion": 2018
+    },
+    "extends": [
+        "eslint:recommended",
+        "property"
+    ],
+ "ewy":{
+    "node":true,
+    "jest": true,
+    "ES6": true
+},
+"rules": {
+    "mo-console": "warn"
+ }
+}
