@@ -1,5 +1,4 @@
 const express = require('express');
-const router = require('./pago.router');
 const pagoRouter = require('./pago.router');
 
 function routerApi(app){
